@@ -1,3 +1,4 @@
+[![White-And-Black-Gradient-Coming-Soon-Email-Header.png](https://i.postimg.cc/vmh3RQZ2/White-And-Black-Gradient-Coming-Soon-Email-Header.png)](https://postimg.cc/nssvBf7q)
 # Anz
 *Software Developer | B.Tech Computer Science (Batch of 2027)*
 
@@ -8,6 +9,8 @@
 *  **Experience :** Open Source Contributor.
 
 *  **Goals :** Full-time Software Engineering / Backend Developer.
+
+---
 
 ## Technical Arsenal
 
