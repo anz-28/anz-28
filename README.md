@@ -1,7 +1,7 @@
 # Anz
 *Software Developer | B.Tech Computer Science (Batch of 2027)*
 
-### About Me
+## About Me
 
 *  **Education:** Final year B.Tech in Computer Science.
 
@@ -9,10 +9,9 @@
 
 *  **Goals:** Full-time Software Engineering / Backend Developer.
 
-### Technical Arsenal
+## Technical Arsenal
 
-## Stack A: Industrial Web Development & Edge Applications
-
+### Stack A :
 * **Frontend & Framework:** TypeScript on React.js & Next.js
 
 * **Styling & UI:** Tailwind CSS & Shadcn/UI
@@ -21,7 +20,7 @@
 
 * **State Management:** TanStack Query & Zustand
 
-## Stack B: Cloud-Native Microservices & High-Scale Infra
+### Stack B :
 
 * **Core Language:** Go (Golang)
   
