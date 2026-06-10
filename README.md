@@ -1,16 +1,22 @@
-## Hi there 👋
+# Anz
+*Software Developer | B.Tech Computer Science (Batch of 2027)*
 
-<!--
-**anz-28/anz-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+*  **Education:** Final year B.Tech in Computer Science.
+*  **Experience:** Open Source Contributor.
+*  **Goals:** Full-time Software Engineering / Backend Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Arsenal
+
+### Stack A: Industrial Web Development & Edge Applications
+* **Frontend & Framework:** TypeScript on React.js & Next.js
+* **Styling & UI:** Tailwind CSS & Shadcn/UI
+* **Backend Runtime & APIs:** Node.js, tRPC, & RESTful OpenAPI
+* **State Management:** TanStack Query & Zustand
+
+### Stack B: Cloud-Native Microservices & High-Scale Infra
+* **Core Language:** Go (Golang)
+* **Database:** PostgreSQL
+* **Containerization & Orchestration:** Docker & Kubernetes (K8s)
+* **Cloud Infrastructure:** Amazon Web Services (AWS)
