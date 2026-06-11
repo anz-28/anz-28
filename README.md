@@ -1,6 +1,8 @@
-[![Anz.png](https://i.postimg.cc/hGhvbrNj/Anz.png)](https://postimg.cc/CZTwwjhT)
+[![Anz.png](https://i.postimg.cc/9FMF1kHC/Anz.png)](https://postimg.cc/5jhV2ntR)
 # Anz
 *Software Developer | B.Tech Computer Science (Batch of 2027)*
+
+---
 
 ## About Me
 
